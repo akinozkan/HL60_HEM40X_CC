@@ -45,7 +45,7 @@ For the below figure, Left is considered one of the sample image from our propos
 ### Citation    
  If you use this dataset, please cite the following paper:
  
-> - Özkan, A., İşgör, S. B., Şengül, G., & İşgör, Y. G. (2018). Computer vision based automated cell counting pipeline: a case study for HL60 cancer cell on hemocytometer. Biomedical Research, 29(14), 2956-2962. 
+> Özkan, A., İşgör, S. B., Şengül, G., & İşgör, Y. G. (2018). Computer vision based automated cell counting pipeline: a case study for HL60 cancer cell on hemocytometer. Biomedical Research, 29(14), 2956-2962. 
 
 ### Terms of Use
 
