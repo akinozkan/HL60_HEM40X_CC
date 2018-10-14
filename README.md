@@ -53,7 +53,9 @@ You can download the dataset from Google Drive by using the provided link below.
 
 <a href="https://drive.google.com/file/d/1zOiij8VDoP-yGtJ08F9mO3FPfAxuMPtC">Download HL60_HEM40X_CC Dataset</a>
 
-<img align="center" src="image/text2image.png" />
+<p align="center">
+<img align="center" src="images/text2image.png" />
+<p/>
 
  
    
