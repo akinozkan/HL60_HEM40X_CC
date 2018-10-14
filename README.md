@@ -1,4 +1,4 @@
-<img alt="main" src="images/header.jpg" />
+<img align="center" src="images/header.jpg" />
 
 <p style="font-family: monospace; text-align: justify;">
 Welcome to our dataset repository. HL60_HEM40x_CC datset were collected at Atılım University, Cell Biology laboratory<a href="https://www.atilim.edu.tr/en/biochem" target="_blank">(BIOCHEM)</a>, Turkey. The majority of the images obtained were collected during a drug development study in a variety of sessions. The dataset is publicly available to nonprofit research and can be downloaded here. </p>
@@ -18,13 +18,13 @@ Images are acquired in different sessions by Motic B3-Series 2.0 Megapixels Moti
                   
 Randomly chosen 4 sample images given below from our gathered unique dataset those have possible adverse conditions, including, deformed cell shape, images with different brightness, single cell image with unequal brightness, images having clumped cells and impurities in cell suspension.
          
-<img alt="main" src="images/4Samples_sharpen.png" />
+<img align="center" src="images/4Samples_sharpen.png" />
            
 <li type="A">Ground Truth Cell Annotations</li>
                
 Ground truth cell coordinates for each image are annotated by three experts by labelling 6890 cells in total. Experts annotate all cell locations as ‘Positive’ and non-cell locations as ‘Negative’. Randomly chosen sample croped images of cell and non-cell are given below from our dataset.
              
-<img alt="main" src="images/cellAndNonCellSamples.png" />
+<img aalign="center" src="images/cellAndNonCellSamples.png" />
 
 <li type="A">Counting Area (ROI) Boundary Annotations</li> 
 
@@ -32,7 +32,28 @@ For each image, the counting area boundary annotations are defined by employing 
 
 For the below figure, Left is considered one of the sample image from our proposed dataset with corresponding ground truth annotations as matrix form.  Cell locations are marked by green bounding boxes and four Counting Area (ROI) Boundary Annotations drawn by blue bounding boxes. The inside of area covered by these four squares is called the Counting Area (ROI).
              
-<img alt="main" src="images/groundTruthDataAndROI_Hor.png" />
+<img align="center" src="images/groundTruthDataAndROI_Hor.png" />
 
-            
+ ### Citation    
+ If you use this dataset, please cite the following paper:
+ 
+Özkan, A., İşgör, S. B., Şengül, G., & İşgör, Y. G. (2018). Computer vision based automated cell counting pipeline: a case study for HL60 cancer cell on hemocytometer. Biomedical Research, 29(14), 2956-2962. 
+
+### Terms of Use
+
+<li style="padding-left: 1%; padding-right: 1%; font-weight: 300; text-align: justify;"> HL60_HEM40X_CC dataset is available for non-commercial research purposes only.</li>
+<li style="padding-left: 1%; padding-right: 1%; font-weight: 300; text-align: justify;"> You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.</li>
+<li style="padding-left: 1%; padding-right: 1%; font-weight: 300; text-align: justify;">You agree not to further copy, publish or distribute any portion of the DeepFashion. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset </li>
+<li style="padding-left: 1%; padding-right: 1%; font-weight: 300; text-align: justify;"> The authors reserve the right to terminate your access to HL60_HEM40X_CC dataset at any time.</li>
+<li style="padding-left: 1%; padding-right: 1%; font-weight: 300; text-align: justify;"> Reference must be made to the above publication when this dataset is used in any academic and research reports, submitted papers or any publicly available text. </li>
+
+### Download
+
+You can download the dataset from Google Drive by using the provided link below. By downloading this dataset, you agree to our Terms of Use listed in above section. If you do not accept our Terms of Use, you are not granted the right to use the dataset.
+
+<a href="https://drive.google.com/file/d/1zOiij8VDoP-yGtJ08F9mO3FPfAxuMPtC">Download HL60_HEM40X_CC Dataset</a>
+
+<img align="center" src="image/text2image.png" />
+
+ 
    
