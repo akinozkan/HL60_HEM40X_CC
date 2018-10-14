@@ -60,7 +60,7 @@ study for HL60 cancer cell on hemocytometer. Biomedical Research, 29(14), 2956-2
 
 You can download the dataset from Google Drive by using the provided link below. By downloading this dataset, you agree to our Terms of Use listed in above section. If you do not accept our Terms of Use, you are not granted the right to use the dataset.
 
-<a href="https://drive.google.com/file/d/1zOiij8VDoP-yGtJ08F9mO3FPfAxuMPtC" target="_blank">Download HL60_HEM40X_CC Dataset</a>
+<a href="https://drive.google.com/file/d/1zOiij8VDoP-yGtJ08F9mO3FPfAxuMPtC">Download HL60_HEM40X_CC Dataset</a>
 
 <p align="center">
 <img src="images/text2image.png" />
